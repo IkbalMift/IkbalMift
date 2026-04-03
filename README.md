@@ -1,65 +1,55 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=200&section=header&text=Ikbal%20Miftahudin&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+# Hi there, I'm Ikbal Miftahudin 👋 
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=FF0080&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+Enthusiast;Web+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Laravel+Enthusiast;Database+Management+Specialist;Tech+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔥 Web Developer
-- 💻 Laravel | Vue | JavaScript
-- 🎯 Focus: Full Stack Development
-- ☕ Ngoding + Ngopi = Produktif
+### 💫 About Me
+- 🔭 Currently exploring the depths of **Full-Stack Development**.
+- 🎓 Deeply involved in **University Projects** and Academic Research.
+- ⚡ I have a strong passion for **Database Architecture** and **MariaDB/MySQL** optimization.
+- 🛠️ Actively working on responsive web interfaces and mobile-first design.
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,mysql,git,github,vscode" />
+### 🚀 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME_LO&show_icons=true&theme=radical&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LO&layout=compact&theme=radical" />
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight" />
+</p>
+
+<br/><br/><br/><br/><br/><br/><br/>
+
+---
+
+### 🛠️ Projects in Development
+- **Laperpoll** – Recipe sharing platform with ingredient-based search.
+- **SIMPEL** – Laundry Management Information System.
+- **ScrollDive** – Educational web app for marine ecosystems.
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ikbal Miftahudin" height="30" width="40" /></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ikbal Miftahudin" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=USERNAME_LO&theme=radical" />
-</p>
-
----
-
-### 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME_LO/USERNAME_LO/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-### 🎧 Spotify Animation (optional)
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxx&cover_image=true&theme=default" />
-</p>
-
----
-
-### 👀 Visitor Counter
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_LO&label=Profile%20views&color=ff0080&style=flat" />
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,100:ff0080&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
