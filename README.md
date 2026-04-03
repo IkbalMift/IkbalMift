@@ -1,55 +1,68 @@
-# Hi there, I'm Ikbal Miftahudin 👋 
+<h1 align="center">Hi 👋, I'm Ikbal Miftahudin</h1>
+<h3 align="center">🚀 Software Engineer | Web Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Laravel+Enthusiast;Database+Management+Specialist;Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+%7C+Vue+%7C+Express;Building+Cool+Things;Always+Learning+New+Tech" />
 </p>
 
 ---
 
-### 💫 About Me
-- 🔭 Currently exploring the depths of **Full-Stack Development**.
-- 🎓 Deeply involved in **University Projects** and Academic Research.
-- ⚡ I have a strong passion for **Database Architecture** and **MariaDB/MySQL** optimization.
-- 🛠️ Actively working on responsive web interfaces and mobile-first design.
+## 🧠 About Me
+- 💻 Web Developer (Laravel, Vue, Express)
+- 📱 Mobile Dev (Flutter)
+- 🛠️ Backend & Frontend Engineer
+- 🎯 Fokus: Clean Code & Performance
+- 🚀 Currently building awesome projects
 
 ---
 
-### 🚀 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
+## ⚡ Tech Stack
 <p align="center">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight" />
-</p>
 
-<br/><br/><br/><br/><br/><br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,nodejs,express,mysql,postgres,flutter,git,github,vscode" />
+
+</p>
 
 ---
 
-### 🛠️ Projects in Development
-- **Laperpoll** – Recipe sharing platform with ingredient-based search.
-- **SIMPEL** – Laundry Management Information System.
-- **ScrollDive** – Educational web app for marine ecosystems.
+## 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_LO&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LO&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ikbal Miftahudin" height="30" width="40" /></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ikbal Miftahudin" height="30" width="40" /></a>
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=USERNAME_LO&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+<a href="https://github.com/USERNAME_LO">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
+</a>
+</p>
+
+---
+
+## 🚀 Featured Projects
+- 🔥 Recipe Finder App
+- 🧠 Mental Health Support App
+- 📊 Attendance Dashboard Laravel
+- 🎮 CLI Game C++
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+⚡ "Code. Build. Deploy. Repeat." ⚡
 </p>
