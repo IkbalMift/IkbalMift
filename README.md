@@ -1,23 +1,45 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=220&section=header&text=IKBAL%20MIFTAHUDIN&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+  🎮 IKBAL MIFT GAME ZONE 🎮
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=FULL+STACK+DEVELOPER;BUILDING+REAL+WORLD+APPLICATIONS;LARAVEL+%7C+VUE+%7C+NODE+%7C+FLUTTER;SYSTEM+ARCHITECT+IN+PROGRESS" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=WELCOME+TO+MY+PROFILE;PLAY+THE+GAME+BELOW;CAN+YOU+BEAT+IT?" />
 </p>
 
 ---
 
-## 🧠 SYSTEM PROFILE
+## 🕹️ PLAY GAME (Snake Contribution Game)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IkbalMift/IkbalMift/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🎯 MINI GAME (CLICK SPEED TEST)
+
+<p align="center">
+  <a href="https://clickspeedtest.com/">
+    <img src="https://img.shields.io/badge/PLAY_CLICK_GAME-00F7FF?style=for-the-badge&logo=gamepad&logoColor=000"/>
+  </a>
+</p>
+
+---
+
+## 🎲 RANDOM DEV GAME
+
+<p align="center">
+  <a href="https://neal.fun/">
+    <img src="https://img.shields.io/badge/PLAY_RANDOM_GAME-FF00FF?style=for-the-badge&logo=gamepad&logoColor=fff"/>
+  </a>
+</p>
+
+---
+
+## 🧠 QUICK CHALLENGE
 
 ```bash
-> Name        : Ikbal Miftahudin
-> Username    : IkbalMift
-> Role        : Full Stack Developer
-> Focus       : Clean Architecture & Scalable Systems
-> Tech        : Laravel, Vue, Node.js, Flutter
-> Status      : Actively Building 🚀
+> Solve this:
+> What is 2 + 2 * 2 ?
+
+Answer it in your mind before scrolling 😏
