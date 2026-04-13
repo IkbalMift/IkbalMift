@@ -1,86 +1,23 @@
-<h1 align="center">Hi 👋, I'm Ikbal Miftahudin</h1>
-<h3 align="center">🚀 Full Stack Developer | Laravel • Vue • Node • Flutter</h3>
-
----
-
-## 🧑‍💻 ABOUT ME
-
-Saya adalah seorang Full Stack Developer yang fokus pada pembuatan aplikasi berbasis web dan mobile.  
-Saya memiliki pengalaman dalam membangun sistem nyata mulai dari backend hingga frontend.
-
-- 💻 Fokus: Web & Mobile Development  
-- ⚡ Spesialis: Laravel, Vue, Node.js  
-- 🚀 Tujuan: Membangun aplikasi yang scalable & bermanfaat  
-
----
-
-## 🚀 PORTFOLIO PROJECT
-
-### 🛒 1. E-Commerce Dashboard
-**Tech Stack:** Laravel, Flutter, MySQL  
-**Deskripsi:**  
-Membangun sistem dashboard untuk mengelola produk, transaksi, dan laporan penjualan.
-
-**Fitur:**
-- Manajemen produk & kategori  
-- Tracking transaksi  
-- Statistik penjualan  
-
----
-
-### 🌐 2. Company Profile Website
-**Tech Stack:** Nuxt.js, SEO Optimization  
-**Deskripsi:**  
-Website company profile dengan performa tinggi dan SEO friendly.
-
-**Fitur:**
-- Landing page interaktif  
-- Optimasi SEO  
-- Responsive design  
-
----
-
-### 🏛️ 3. Sistem Pemerintahan (DKPP)
-**Tech Stack:** Laravel, MySQL  
-**Deskripsi:**  
-Sistem berbasis web untuk membantu pengelolaan data dan proses administrasi.
-
-**Fitur:**
-- CRUD data  
-- Sistem login & role  
-- Manajemen data terstruktur  
-
----
-
-### 🔗 4. REST API Service
-**Tech Stack:** Node.js, Express  
-**Deskripsi:**  
-Membangun REST API modular untuk kebutuhan integrasi sistem.
-
-**Fitur:**
-- Endpoint terstruktur  
-- Middleware authentication  
-- JSON response API  
-
----
-
-## 🛠️ TECH STACK
-
-- Frontend: HTML, CSS, JavaScript, Vue  
-- Backend: Laravel, Node.js, Express  
-- Mobile: Flutter  
-- Database: MySQL, PostgreSQL  
-
----
-
-## 📊 GITHUB STATS
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=220&section=header&text=IKBAL%20MIFTAHUDIN&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IkbalMift&show_icons=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=FULL+STACK+DEVELOPER;BUILDING+REAL+WORLD+APPLICATIONS;LARAVEL+%7C+VUE+%7C+NODE+%7C+FLUTTER;SYSTEM+ARCHITECT+IN+PROGRESS" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
 </p>
 
 ---
 
-## 📫 CONTACT
+## 🧠 SYSTEM PROFILE
 
-- GitHub: https://github.com/IkbalMift
+```bash
+> Name        : Ikbal Miftahudin
+> Username    : IkbalMift
+> Role        : Full Stack Developer
+> Focus       : Clean Architecture & Scalable Systems
+> Tech        : Laravel, Vue, Node.js, Flutter
+> Status      : Actively Building 🚀
