@@ -1,63 +1,78 @@
-<h1 align="center">Hi 👋, I'm Ikbal Miftahudin</h1>
-<h3 align="center">🚀 Software Engineer | Full Stack Developer</h3>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Ikbal%20Miftahudin&fontSize=70&animation=fadeIn" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+Vue+%7C+Express;Flutter+Mobile+Developer;Building+Scalable+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Architect;Building+Digital+Ecosystems;Laravel+%2B+Vue+%2B+Flutter;Clean+Code+Enthusiast" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/miftahudin-ikbal">
+    <img src="https://img.shields.io/github/followers/USERNAME_LO?label=Follow&style=social" />
+  </a>
 </p>
 
 ---
 
-## 🧠 About Me
-💻 Full Stack Developer  
-📱 Mobile Developer (Flutter)  
-⚡ Fokus pada clean architecture & performance  
-🚀 Passionate building real-world applications  
+## ⚡ Quick Peek
+<table align="center">
+  <tr>
+    <td width="50%" style="border: none;">
+      <h3>🚀 Performance & Scalability</h3>
+      <p>Berfokus pada <b>Clean Architecture</b> dan optimasi database. Saya suka mengubah logika kompleks menjadi aplikasi yang responsif dan elegan.</p>
+      <ul>
+        <li>🔭 Sedang mendalami <b>Microservices</b></li>
+        <li>🌱 Fokus pada <b>Mobile-First Design</b></li>
+        <li>💬 Tanya saya tentang <b>Laravel & Flutter</b></li>
+      </ul>
+    </td>
+    <td width="50%" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LO&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ⚡ Tech Stack
+## 💻 Tech Arsenal
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,nodejs,express,mysql,postgres,flutter,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=laravel,vue,express,flutter,nodejs,mysql,postgres,mongodb,tailwind,bootstrap,git,github,vscode,postman,docker&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Light.svg" width="40" height="40" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🏗️ Featured Craftsmanship
 
-### 🏛️ DKPP Republik Indonesia
-- Sistem aplikasi untuk kebutuhan instansi pemerintahan
-- Built with Laravel
-- Dashboard & manajemen data
-- Role based access
-
-### 🛒 E-Commerce Admin (Laravel + Flutter)
-- Admin dashboard Laravel
-- Mobile app Flutter
-- Product management
-- Order tracking
-- REST API integration
-
-### 🌐 Company Profile Website
-- Responsive design
-- Modern UI/UX
-- SEO Friendly
-- Fast loading performance
+| Project | Stack | Status |
+| :--- | :---: | :--- |
+| **DKPP Republik Indonesia** | `Laravel` `MySQL` | ✅ Production |
+| **E-Commerce Ecosystem** | `Laravel` `Flutter` | 🚀 Active |
+| **Laperpoll (Recipe Search)** | `Vue` `Express` | 🛠️ In Dev |
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Dev Activity
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_LO&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LO&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_LO&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="190" />
+  <img src="https://streak-stats.demolab.com?user=USERNAME_LO&theme=tokyonight&hide_border=true" height="190" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_LO&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME_LO&theme=tokyonight&hide_border=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
----
-
-## 🧰 Tools & Technologies
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME_LO&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
+</p>
