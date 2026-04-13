@@ -1,11 +1,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
-</p
+</p>
 
-  
 <h1 align="center">Hi 👋, I'm Ikbal Miftahudin</h1>
 <h3 align="center">💻 Web Developer | Laravel • JavaScript • Flutter Enthusiast</h3>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Fullstack+Developer;Laravel+Enthusiast;Always+Learning+New+Things;Building+Cool+Projects" />
@@ -23,6 +21,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IkbalMift&show_icons=true&theme=tokyonight" />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IkbalMift&theme=tokyonight" />
 </p>
 
@@ -34,31 +33,21 @@
 > Sistem berbasis web untuk kebutuhan instansi  
 🔹 Fokus: Backend & Manajemen Data  
 
----
-
 ### 🏫 KDE Academy
 > Platform edukasi berbasis web  
 🔹 Fokus: UI/UX & Sistem pembelajaran  
-
----
 
 ### 🏬 3 Putra Padma
 > Website company profile bisnis  
 🔹 Fokus: Branding & informasi layanan  
 
----
-
 ### 👕 Balista Store
 > E-commerce fashion dengan sistem admin CRUD  
 🔹 Fitur: Manajemen produk & dashboard  
 
----
-
-### 🛒 Company Profile Project
+### 🏢 Company Profile Project
 > Sistem pengenalan sebuah perusahaan  
-🔹 Fokus: Branding & informasi layanan 
-
----
+🔹 Fokus: Branding & informasi layanan  
 
 ### 🛒 E-Commerce Project
 > Sistem toko online lengkap  
