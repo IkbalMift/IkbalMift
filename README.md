@@ -39,13 +39,6 @@
 
 ## 🚀 Featured Projects
 
-### 🍳 Recipe Finder App
-> Aplikasi pencarian resep berdasarkan bahan yang tersedia  
-🔹 Fitur: Swipe UI, Kulkas Digital, Timer Masak  
-🔹 Tech: Laravel, JavaScript  
-
----
-
 ### 🏢 DKPP Project
 > Sistem berbasis web untuk kebutuhan instansi  
 🔹 Fokus: Backend & Manajemen Data  
@@ -67,6 +60,12 @@
 ### 👕 Balista Store
 > E-commerce fashion dengan sistem admin CRUD  
 🔹 Fitur: Manajemen produk & dashboard  
+
+---
+
+### 🛒 Company Profile Project
+> Sistem pengenalan sebuah perusahaan  
+🔹 Fokus: Branding & informasi layanan 
 
 ---
 
