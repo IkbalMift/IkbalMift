@@ -1,45 +1,81 @@
-<h1 align="center">
-  🎮 IKBAL MIFT GAME ZONE 🎮
-</h1>
+<h1 align="center">Hi 👋, I'm Ikbal Miftahudin</h1>
+<h3 align="center">💻 Web Developer | Laravel • JavaScript • Flutter Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=WELCOME+TO+MY+PROFILE;PLAY+THE+GAME+BELOW;CAN+YOU+BEAT+IT?" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Fullstack+Developer;Laravel+Enthusiast;Always+Learning+New+Things;Building+Cool+Projects" />
 </p>
 
 ---
 
-## 🕹️ PLAY GAME (Snake Contribution Game)
+## 🌟 About Me
+- 🔭 Currently building: **Recipe Finder App**
+- 🌱 Learning: **Advanced Backend & System Design**
+- 💡 Interested in: **Web Dev, Mobile Dev, UI/UX**
+- ⚡ Fun fact: *Ngoding sambil denger musik biar flow 😎*
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IkbalMift/IkbalMift/output/github-contribution-grid-snake.svg" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,js,html,css,vue,flutter,mysql,postgres,nodejs,express,git,github" />
 </p>
 
 ---
 
-## 🎯 MINI GAME (CLICK SPEED TEST)
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://clickspeedtest.com/">
-    <img src="https://img.shields.io/badge/PLAY_CLICK_GAME-00F7FF?style=for-the-badge&logo=gamepad&logoColor=000"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=IkbalMift&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IkbalMift&theme=tokyonight" />
 </p>
 
 ---
 
-## 🎲 RANDOM DEV GAME
+## 📈 Most Used Languages
 
 <p align="center">
-  <a href="https://neal.fun/">
-    <img src="https://img.shields.io/badge/PLAY_RANDOM_GAME-FF00FF?style=for-the-badge&logo=gamepad&logoColor=fff"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkbalMift&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 QUICK CHALLENGE
+## 🚀 Featured Projects
 
-```bash
-> Solve this:
-> What is 2 + 2 * 2 ?
+### 🍳 Recipe Finder
+> App untuk cari resep berdasarkan bahan yang tersedia  
+🔹 Fitur: Swipe resep, kulkas digital, timer masak  
 
-Answer it in your mind before scrolling 😏
+### 🛒 Sistem Antrian Sembako
+> Aplikasi pencarian & antrian warga berbasis NIK  
+
+### 👕 Balista Store
+> Website produk fashion dengan sistem admin CRUD  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+## 🧠 Quote
+
+<p align="center">
+  <i>"Code. Debug. Improve. Repeat."</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IkbalMift&theme=tokyonight&row=1&column=6" />
+</p>
+
+<p align="center">
+  ⭐ From <b>IkbalMift</b>
+</p>
