@@ -2,16 +2,12 @@
 <h3 align="center">💻 Web Developer | Laravel • JavaScript • Flutter Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Fullstack+Developer;Laravel+Enthusiast;Always+Learning+New+Things;Building+Cool+Projects" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
 </p>
 
----
-
-## 🌟 About Me
-- 🔭 Currently building: **Recipe Finder App**
-- 🌱 Learning: **Advanced Backend & System Design**
-- 💡 Interested in: **Web Dev, Mobile Dev, UI/UX**
-- ⚡ Fun fact: *Ngoding sambil denger musik biar flow 😎*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Fullstack+Developer;Laravel+Enthusiast;Always+Learning+New+Things;Building+Cool+Projects" />
+</p>
 
 ---
 
@@ -26,13 +22,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IkbalMift&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IkbalMift&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkbalMift&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 ---
